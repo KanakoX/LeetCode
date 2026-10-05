@@ -1,4 +1,4 @@
-package com.kanako;
+package com.kanako.wc522;
 
 public class Solution4 {
     public int countGoodStrings(long n) {

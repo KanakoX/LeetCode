@@ -1,4 +1,4 @@
-package com.kanako;
+package com.kanako.wc522;
 
 public class Solution3 {
     public long maxAlternatingSum(int[] nums) {
